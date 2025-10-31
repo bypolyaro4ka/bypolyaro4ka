@@ -61,7 +61,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,nginx,git,github,linux&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,aiogram,celery,bash,vscode,react,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aiogram,celery,bash,vscode,html,css&theme=dark" />
 </p>
 
 ---
