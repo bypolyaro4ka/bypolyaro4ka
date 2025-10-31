@@ -1,9 +1,20 @@
-# 👋 Привет, я Кузнецов Алексей 
+<!-- TITLE -->
+<h1 align="center">👋 Привет, я <span style="color:#58a6ff;">Кузнецов Алексей</span></h1>
 
-### 🐍 Python-разработчик | 💻 Fullstack | 🌐 HTML / CSS / JS / Python / Django
+<h3 align="center">
+🐍 Python-разработчик | 💻 Fullstack | 🌐 HTML / CSS / JS / Python / Django
+</h3>
 
-Я занимаюсь веб-разработкой и создаю **полноценные приложения** — от интерфейса до серверной логики.  
-Изучаю лучшие практики проектирования, пишу **чистый, понятный код** и развиваюсь как **универсальный разработчик**, способный работать с полным циклом создания веб-приложений.
+<p align="center">
+  Я создаю <b>интеллектуальные и надёжные веб-приложения</b> — от интерфейса до серверной логики.<br>
+  Изучаю лучшие практики проектирования, пишу <b>чистый, понятный код</b> и развиваюсь как <b>универсальный разработчик</b>.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Python-разработчик;Django+%7C+Aiogram+%7C+React;Интеграции+с+Jira,+ОФД,+GPT;Люблю+чистый+код+и+умные+системы+🤖" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -42,9 +53,8 @@
 ## ⚙️ Технологический стек
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,nginx,git,github,linux&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=fastapi,aiogram,celery,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,redis,docker,nginx,git,github,linux&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,aiogram,celery,bash,vscode,react,html,css,js&theme=dark" />
 </p>
 
 ---
@@ -81,11 +91,19 @@
 
 ---
 
-## 📈 Статистика GitHub
+## 📊 GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bypolyaro4ka&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bypolyaro4ka&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bypolyaro4ka&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bypolyaro4ka&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bypolyaro4ka&theme=tokyonight" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bypolyaro4ka&theme=tokyonight&no-frame=true&margin-w=10" width="90%" />
 </p>
 
 ---
@@ -123,8 +141,24 @@
 
 ---
 
+## 🪄 Анимация активности
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ## 📫 Связь
 
-- **Telegram:** [@bypolyaro4ka](#)  
-- **Email:** avk.alekseyKuznetsov@gmail.com  
-- **GitHub:** [github.com/bypolyaro4ka](https://github.com/bypolyaro4ka)
+<p align="center">
+  <a href="https://t.me/bypolyaro4ka"><img src="https://img.shields.io/badge/Telegram-@bypolyaro4ka-26A5E4?style=for-the-badge&logo=telegram" /></a>
+  <a href="mailto:avk.alekseyKuznetsov@gmail.com"><img src="https://img.shields.io/badge/Email-avk.alekseyKuznetsov%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/bypolyaro4ka"><img src="https://img.shields.io/badge/GitHub-bypolyaro4ka-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bypolyaro4ka&color=blueviolet&style=flat-square" alt="profile views"/>
+</p>
