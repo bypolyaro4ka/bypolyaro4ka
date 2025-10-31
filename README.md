@@ -10,10 +10,19 @@
   Изучаю лучшие практики проектирования, пишу <b>чистый, понятный код</b> и развиваюсь как <b>универсальный разработчик</b>.
 </p>
 
+
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Python-разработчик;Django+%7C+Aiogram+%7C+React;Интеграции+с+Jira,+ОФД,+GPT;Люблю+чистый+код+и+умные+системы+🤖" alt="Typing SVG" />
+</p>
+
+---
+
+## 🪄 Анимация активности
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -138,14 +147,6 @@
 | **[GPT OPENAI Telegram Bot](https://github.com/bypolyaro4ka/GPT_OPENAI_Aiogram_Telegram_bot)** <br> <img src="https://skillicons.dev/icons?i=python,aiogram,openai,redis&theme=dark" height="25"/> | Telegram-бот на **aiogram v3** с интеграцией **OpenAI GPT**, FSM-состояниями, inline-меню, WebApp и системой логирования. |
 | **[Site Store](https://github.com/bypolyaro4ka/Site_Store)** <br> <img src="https://skillicons.dev/icons?i=python,django,html,css,postgres&theme=dark" height="25"/> | Интернет-магазин одежды на **Django** с каталогом, корзиной, системой заказов и административной панелью. |
 | **[Site Delivery](https://github.com/bypolyaro4ka/Site_Delivery)** <br> <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" height="25"/> | Адаптивная вёрстка сайта доставки на **HTML / CSS / JavaScript**, оптимизированная под мобильные устройства. |
-
----
-
-## 🪄 Анимация активности
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
 
